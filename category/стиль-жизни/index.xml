@@ -5,12 +5,28 @@
     <link>https://example.com/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
       <atom:link href="https://example.com/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Стиль жизни</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Стиль жизни</title>
       <link>https://example.com/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
     </image>
+    
+    <item>
+      <title>Как я провел прошлую неделю.</title>
+      <link>https://example.com/post/last-week/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работу номер 9 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сыграл в баскетбольном матче за сборную РУДН.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математической логике.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по математическому анализу и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Как я провел прошлую неделю.</title>
