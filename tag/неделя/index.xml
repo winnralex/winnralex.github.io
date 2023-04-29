@@ -5,7 +5,7 @@
     <link>https://example.com/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <atom:link href="https://example.com/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>Неделя</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Неделя</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Как я провел прошлую неделю.</title>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/post/prev-week/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/prev-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работу номер 12 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сыграл в баскетбольном матче за сборную РУДН против сборной МГТУ СТАНКИН.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математическому анализу.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по аналитической геометрии и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/last-week/</guid>
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Как я провел прошлую неделю.</title>
+      <title>Как я провел прошедшую неделю.</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
