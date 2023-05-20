@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <title>Обсуждение о жизни</title>
+      <link>https://example.com/talk/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://example.com/talk/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
