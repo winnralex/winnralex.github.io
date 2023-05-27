@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: May 20, 2023 --><html lang="en-us" >
+<!-- Last Published: May 27, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -268,7 +268,7 @@
 
 
 
-  <meta name="author" content="Александр Шуплецов" />
+  <meta name="author" content="Alexandr Shupletsov" />
 
 
 
@@ -276,9 +276,11 @@
 
   
 
-<meta name="description" content="Git - прекрасный инструмент для управления версиями." />
+<meta name="description" content="Git is a good intrument for version control." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/jupyter/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/jupyter/" />
 <link rel="canonical" href="https://example.com/post/jupyter/" />
@@ -317,8 +319,8 @@
 <meta property="twitter:image" content="https://example.com/post/jupyter/featured.jpg" />
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/post/jupyter/" />
-<meta property="og:title" content="Управление версиями. Git. | Academic" />
-<meta property="og:description" content="Git - прекрасный инструмент для управления версиями." /><meta property="og:image" content="https://example.com/post/jupyter/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Version Control System. Git. | Academic" />
+<meta property="og:description" content="Git is a good intrument for version control." /><meta property="og:image" content="https://example.com/post/jupyter/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -355,7 +357,7 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/jupyter/"
   },
-  "headline": "Управление версиями. Git.",
+  "headline": "Version Control System. Git.",
   
   "image": [
     "https://example.com/post/jupyter/featured.jpg"
@@ -366,7 +368,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Александр Шуплецов"
+    "name": "Alexandr Shupletsov"
   },
   
   "publisher": {
@@ -377,7 +379,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Git - прекрасный инструмент для управления версиями."
+  "description": "Git is a good intrument for version control."
 }
 </script>
 
@@ -399,7 +401,7 @@
 
 
   
-  <title>Управление версиями. Git. | Academic</title>
+  <title>Version Control System. Git. | Academic</title>
 
   
   
@@ -789,6 +791,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/jupyter/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -834,7 +852,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Управление версиями. Git.</h1>
+  <h1>Version Control System. Git.</h1>
 
   
 
@@ -851,7 +869,7 @@
     
 
   <span class="author-highlighted">
-      Александр Шуплецов</span>
+      Alexandr Shupletsov</span>
   </div>
   
   
@@ -871,7 +889,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    4 min read
   </span>
   
 
@@ -884,7 +902,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/">Образование</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/category/education/">Education</a></span>
   
 
 </div>
@@ -911,15 +929,15 @@
 
     <div class="article-style">
       <h2 id="overview">Overview</h2>
-<p>Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.</p>
-<p>Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.
-Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.
-Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.
-Одной из популярных VCS была система RCS, которая и сегодня распространяется со многими компьютерами. RCS хранит на диске наборы патчей (различий между файлами) в специальном формате, применяя которые она может воссоздавать состояние каждого файла в заданный момент времени.
-Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.</p>
-<p>Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.</p>
-<p>Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.
-Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.</p>
+<p>What is a &ldquo;version control system&rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.</p>
+<p>If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you have broken something or lost files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.
+Many people use copying files to a separate directory as a version control method (perhaps even a directory with a time stamp, if they are smart enough). This approach is very common because of its simplicity, but it is incredibly prone to errors. You can easily forget which directory you are in and accidentally change the wrong file or copy the wrong files that you wanted.
+In order to solve this problem, programmers have long ago developed local VCS with a simple database that stores records of all changes in files, thereby monitoring revisions.
+One of the most popular VCS was the RCS system, which is still distributed with many computers today. RCS stores on disk sets of patches (differences between files) in a special format, using which it can recreate the state of each file at a given time.
+The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized Version Control Systems (hereinafter CVCS) were developed. Systems such as CVS, Subversion, and Perforce use a single server containing all versions of files, and a number of clients that receive files from this centralized repository. The use of CVCS has been the standard for many years.</p>
+<p>This approach has many advantages, especially over local VCS. For example, all project developers know to a certain extent what each of them is doing. Administrators have full control over who can do what, and it is much easier to administer CVCS than to operate local databases on each client.</p>
+<p>Despite this, this approach also has serious disadvantages. The most obvious disadvantage is a single point of failure represented by a centralized server. If this server goes down for an hour, then during this time no one will be able to use version control to save the changes they are working on, and no one will be able to share these changes with other developers. If the hard disk on which the central database is stored is damaged, and there are no timely backups, you will lose everything — the entire history of the project, not counting single repository snapshots that have been saved on local developer machines. Local VCS suffer from the same problem: when the entire project history is stored in one place, you risk losing everything.
+This is where Distributed Version Control Systems (hereinafter DVCS) come into play. In DVCS (such as Git, Mercurial, Bazaar, or Darcs), clients don&rsquo;t just download a snapshot of all files (the state of files at a certain point in time) — they completely copy the repository. In this case, if one of the servers through which the developers exchanged data dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.</p>
 
     </div>
 
@@ -952,7 +970,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;text=Version&#43;Control&#43;System.&#43;Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -969,7 +987,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;t=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;t=Version&#43;Control&#43;System.&#43;Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -988,7 +1006,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.%20Git.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Version%20Control%20System.%20Git.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1005,7 +1023,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;title=Version&#43;Control&#43;System.&#43;Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1022,7 +1040,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git.%20https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Version&#43;Control&#43;System.&#43;Git.%20https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1039,7 +1057,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.&#43;Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fjupyter%2F&amp;title=Version&#43;Control&#43;System.&#43;Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1073,13 +1091,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu2618f9a545415c476dfc5eaafe3c4312_153305_270x270_fill_q75_lanczos_center.jpg" alt="Александр Шуплецов"></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu2618f9a545415c476dfc5eaafe3c4312_153305_270x270_fill_q75_lanczos_center.jpg" alt="Alexandr Shupletsov"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Александр Шуплецов</a></h5>
-      <h6 class="card-subtitle">Студент ФФМиЕН РУДН</h6>
-      <p class="card-text">Студент Факультета Физико-математических и естественных наук, направление &ldquo;Компьютерные и информационные науки&rdquo;.</p>
+      <h5 class="card-title"><a href="https://example.com/">Alexandr Shupletsov</a></h5>
+      <h6 class="card-subtitle">Student of Faculty of Science RUDN</h6>
+      <p class="card-text">Сomputer Science student of RUDN&rsquo;s Faculty of Science</p>
       <ul class="network-icon" aria-hidden="true">
   
     

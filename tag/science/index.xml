@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | Academic</title>
+    <link>https://example.com/tag/science/</link>
+      <atom:link href="https://example.com/tag/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Science</title>
+      <link>https://example.com/tag/science/</link>
+    </image>
+    
+    <item>
+      <title>Science programming languages.</title>
+      <link>https://example.com/post/science/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/science/</guid>
+      <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.
+Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;p&gt;Specializations&lt;/p&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively.&lt;/p&gt;
+&lt;p&gt;Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions.&lt;/p&gt;
+&lt;p&gt;The future of the programmer-scientist profession&lt;/p&gt;
+&lt;p&gt;Programming moves science, which moves technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the XXI century: Microwave oven, mobile phone, 8-bit home computer. It depends on the programmer-scientist which peaks science will reach today and which of them will enter every home tomorrow.&lt;/p&gt;
+&lt;p&gt;In the hands of a programmer-scientist there are tools not only for the development of industry, but also for improving the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to anticipate and prevent climatic, financial, humanitarian disasters.&lt;/p&gt;
+&lt;p&gt;Where to learn programming&lt;/p&gt;
+&lt;p&gt;You can master programming as anywhere. Specialized literature, face-to—face training, Internet sites - all these resources are able to provide a novice programmer with a knowledge base sufficient for independent creativity and professional development, including in line with scientific development.&lt;/p&gt;
+&lt;p&gt;The source: &lt;a href=&#34;https://naked-science.ru/article/media/programmirovanie-v-nauke-aktualnost&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://naked-science.ru/article/media/programmirovanie-v-nauke-aktualnost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle | Academic</title>
+    <link>https://example.com/category/lifestyle/</link>
+      <atom:link href="https://example.com/category/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lifestyle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lifestyle</title>
+      <link>https://example.com/category/lifestyle/</link>
+    </image>
+    
+    <item>
+      <title>How I spent the past week.</title>
+      <link>https://example.com/post/lw/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lw/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I have done 2 laboratory works Algebra.&lt;/li&gt;
+&lt;li&gt;I have played football with my friends.&lt;/li&gt;
+&lt;li&gt;I have visited a scientific event.&lt;/li&gt;
+&lt;li&gt;I have done many Math exercises.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I spent the past week.</title>
+      <link>https://example.com/post/weeeek/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/weeeek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I have done laboratory work #14 Operating Systems.&lt;/li&gt;
+&lt;li&gt;I had 2 basketball trainings.&lt;/li&gt;
+&lt;li&gt;I have visited a scientific event.&lt;/li&gt;
+&lt;li&gt;I have done many Math exercises.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I spent the past week.</title>
+      <link>https://example.com/post/prev-week/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/prev-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I have done laboratory work #12 Operating Systems.&lt;/li&gt;
+&lt;li&gt;I have participated in a basketball match.&lt;/li&gt;
+&lt;li&gt;I have visited a scientific event.&lt;/li&gt;
+&lt;li&gt;I have done many Math exercises and tests.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I spent the past week.</title>
+      <link>https://example.com/post/last-week/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I have done laboratory work #9 Operating Systems.&lt;/li&gt;
+&lt;li&gt;I have participated in a basketball match.&lt;/li&gt;
+&lt;li&gt;I have visited a scientific event.&lt;/li&gt;
+&lt;li&gt;I have pass the math test.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I spent the past week .</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I have done laboratory work #5 Operating Systems.&lt;/li&gt;
+&lt;li&gt;I have participated in a basketball match.&lt;/li&gt;
+&lt;li&gt;I have visited a scientific event.&lt;/li&gt;
+&lt;li&gt;I have done many Math exercises.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

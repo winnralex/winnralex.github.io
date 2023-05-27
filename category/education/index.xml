@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Academic</title>
+    <link>https://example.com/category/education/</link>
+      <atom:link href="https://example.com/category/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Education</title>
+      <link>https://example.com/category/education/</link>
+    </image>
+    
+    <item>
+      <title>Sustainable Development.</title>
+      <link>https://example.com/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
+      <description>&lt;p&gt;Sustainable Development&lt;/p&gt;
+&lt;p&gt;The best definition of Sustainable development was presented by the report Our Common Future (also known as the Brundtland Report):&lt;/p&gt;
+&lt;p&gt;“Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”&lt;/p&gt;
+&lt;p&gt;Sustainable development is thus the ability to meet the needs of the present while contributing to the future generations’ needs. It focuses on two goals:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;To improve the quality of life for all of the Earth’s citizens.
+To stop using up the natural resources beyond the capacity of the environment to supply them indefinitely.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Green development is generally differentiated from sustainable development in that Green development prioritizes what its proponents consider to be environmental sustainability over economic and cultural considerations. In addition to that, sustainable development has underlying concepts: the concept of ‘needs’, in particular the essential needs of the world’s poor, to which overriding priority should be given; and the idea of limitations imposed by the state of technology and social organization on the environment’s ability to meet present and future needs. There is an additional focus on the present generations’ responsibility to improve the future generations’ life by restoring the previous ecosystem damage and resisting to further ecosystem damage.&lt;/p&gt;
+&lt;p&gt;Sustainable development requires action on the part of world states, governments and people. The detrimental situation of the environment, the enormous stress upon our natural resources and the huge gap between developed and underdeveloped countries necessitate practical strategies to reverse the trends. The World Commission on Environment and Development suggested seven critical objectives for environment and development policies that follow from the concept of sustainable development:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Reviving growth
+Changing the quality of growth
+Meeting essential needs such as for jobs, food, energy, water and sanitation
+Ensuring a sustainable level of population
+Conserving and enhancing the resource base
+Reorienting technology and manage risk
+Including and combining environment and economics considerations in decision-making
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These recommendations are still valid; to do things differently is dangerous and condemnable. Slow actions would be detrimental.&lt;/p&gt;
+&lt;p&gt;The source: &lt;a href=&#34;http://www.delo-angl.ru/anglijskie-teksty-i-stati/anglijskie-teksty-i-statiustoychivoe-razvitie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.delo-angl.ru/anglijskie-teksty-i-stati/anglijskie-teksty-i-statiustoychivoe-razvitie/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science programming languages.</title>
+      <link>https://example.com/post/science/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/science/</guid>
+      <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.
+Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;p&gt;Specializations&lt;/p&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively.&lt;/p&gt;
+&lt;p&gt;Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions.&lt;/p&gt;
+&lt;p&gt;The future of the programmer-scientist profession&lt;/p&gt;
+&lt;p&gt;Programming moves science, which moves technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the XXI century: Microwave oven, mobile phone, 8-bit home computer. It depends on the programmer-scientist which peaks science will reach today and which of them will enter every home tomorrow.&lt;/p&gt;
+&lt;p&gt;In the hands of a programmer-scientist there are tools not only for the development of industry, but also for improving the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to anticipate and prevent climatic, financial, humanitarian disasters.&lt;/p&gt;
+&lt;p&gt;Where to learn programming&lt;/p&gt;
+&lt;p&gt;You can master programming as anywhere. Specialized literature, face-to—face training, Internet sites - all these resources are able to provide a novice programmer with a knowledge base sufficient for independent creativity and professional development, including in line with scientific development.&lt;/p&gt;
+&lt;p&gt;The source: &lt;a href=&#34;https://naked-science.ru/article/media/programmirovanie-v-nauke-aktualnost&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://naked-science.ru/article/media/programmirovanie-v-nauke-aktualnost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentation creating.</title>
+      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+      <description>&lt;p&gt;A good presentation helps to understand the speaker, but a bad one only bores you. You know this if you defended your diploma at a university or listened to colleagues speak at a meeting. Unfortunately, there are more bad presentations.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s very easy to distinguish a good presentation: it helps to keep the listeners&amp;rsquo; attention. In a bad presentation, everything is in a heap: the eyes scatter over bright slides, the brain tries to process the text, and at this time the speaker mumbles something about his own.&lt;/p&gt;
+&lt;p&gt;To make a good presentation, you do not need to be able to draw, own Photoshop and spend hours assembling slides. A good presentation is a clear presentation and a good presentation first of all. This works equally in public speeches and presentations on websites.&lt;/p&gt;
+&lt;p&gt;A good presentation begins with questions to yourself. The most important part you can do in notepad, even without turning on the computer. First, you choose a topic, define a goal, and distribute the arguments in the right order. And only now you can open the program and search for pictures for the presentation.&lt;/p&gt;
+&lt;h1 id=&#34;rules-for-creating-a-good-presentation&#34;&gt;Rules for creating a good presentation&lt;/h1&gt;
+&lt;p&gt;##1. Formulate a topic
+It is difficult to listen to the interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow down the topic until the presentation cannot be presented in ten short paragraphs.&lt;/p&gt;
+&lt;p&gt;It is easy to identify a good topic — it suggests the structure of the speech itself.&lt;/p&gt;
+&lt;h2 id=&#34;2-define-the-goal&#34;&gt;2. Define the goal&lt;/h2&gt;
+&lt;p&gt;A good presentation changes the current picture of the world. For example, people are starting to take more care of the environment or are running for a new smartphone. The goal does not have to be ambitious, the main thing is specific.&lt;/p&gt;
+&lt;p&gt;A good presentation goal starts with a question: what I want to change in the behavior of listeners.&lt;/p&gt;
+&lt;h2 id=&#34;3-think-over-the-scenario&#34;&gt;3. Think over the scenario&lt;/h2&gt;
+&lt;p&gt;The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will come to these changes.&lt;/p&gt;
+&lt;p&gt;Imagine that you are making up a story. The listener should be intrigued, come up with an interesting hero, lead him through difficulties to a successful ending. This is the basic structure of any text and presentation. Fairy tales, movie scripts and product advertisements are based on such a structure.&lt;/p&gt;
+&lt;h2 id=&#34;4-show-examples&#34;&gt;4. Show examples&lt;/h2&gt;
+&lt;p&gt;Less theory means more life. Show how your product works and how people use it. Real stories of people, screenshots of programs and live photos of the product look more convincing than dry text and photos from stock photos.
+##5. Alternate slides
+The presentation is like a text. If the text consists of sentences of the same length and the same type, it will be boring to read. There is no rhythm. Therefore, alternate text slides and slides with images, add graphics. Sometimes you can make a joke.
+##6. Tell me what to do next
+A bad performance ends like this: &amp;ldquo;That&amp;rsquo;s it, now the questions.&amp;rdquo; So you leave the listener alone with his thoughts.&lt;/p&gt;
+&lt;p&gt;A good presentation gives clear instructions on what to do next. This is not necessarily a call to action. At the end, you can once again go through the conclusions, emphasize the main thesis or tell where to get additional information.&lt;/p&gt;
+&lt;p&gt;Finish with an instruction or output.
+##7. Fewer colors
+There should be 1-2 primary colors in the presentation. For example, for background, text and icons. Follow the selected sequence and do not change colors unnecessarily. It is quite difficult to choose colors yourself, especially if you are not a designer. If you are making a corporate presentation, use corporate colors.&lt;/p&gt;
+&lt;p&gt;If there are no branded colors, use the color matching sites. There are ready-made combinations that are nice to look at.
+##8. More contrast
+White on blue can look nice on your computer with a Retina screen. But if you have to show a presentation through a projector, the text will not be read. Therefore, use contrasting colors. The biggest contrast: black and white. The rest can be checked using the contrast check service.
+##9. Fewer fonts
+One font is enough to create a presentation. Take a modern sans-serif font: Open Sans, Roboto, PT Sans (these fonts can be used for free). These are simple fonts that are easy to read. It&amp;rsquo;s easy to check: step away from the screen and try to read the title. If it&amp;rsquo;s easy to read, you guessed it. Accents can be made by changing the font saturation.&lt;/p&gt;
+&lt;h2 id=&#34;10-rule-of-thirds&#34;&gt;10. Rule of thirds&lt;/h2&gt;
+&lt;p&gt;This rule of creating presentations helps to arrange objects on the slide so that the eye immediately highlights the most important. Divide the slide into thirds lengthwise and across. Place significant objects at intersections. Significant objects are titles and illustrations.&lt;/p&gt;
+&lt;h2 id=&#34;11-the-texts-are-shorter&#34;&gt;11. The texts are shorter&lt;/h2&gt;
+&lt;p&gt;One slide is one thought. This slide is easy to read and remember. If you speak publicly, it will keep the audience&amp;rsquo;s attention. Exactly how much text will be on the slide depends on the size of the audience. If a person is reading a presentation on the screen, a paragraph of text will not frighten him. If you are speaking in front of an audience of one hundred people, it will be difficult to read more than ten words on the slide.&lt;/p&gt;
+&lt;h2 id=&#34;12-calculate-how-many-slides-should-be-in-the-presentation&#34;&gt;12. Calculate how many slides should be in the presentation&lt;/h2&gt;
+&lt;p&gt;A simple rule that can be taken as a basis when creating presentations is one slide per minute. If your presentation is designed for 30 minutes, then the optimal number of slides is also 30!&lt;/p&gt;
+&lt;h2 id=&#34;13-add-images&#34;&gt;13. Add images&lt;/h2&gt;
+&lt;p&gt;Photos and icons help to reveal the content, but should not replace it. If you find a beautiful photo &amp;ldquo;in the subject&amp;rdquo; that does not help to reveal the idea, do not use it.&lt;/p&gt;
+&lt;h2 id=&#34;14-make-friends-with-slides&#34;&gt;14. Make friends with slides&lt;/h2&gt;
+&lt;p&gt;In a presentation, all elements should be friends, that is, they should be of the same type. Then it is perceived easily, because it meets expectations.&lt;/p&gt;
+&lt;p&gt;Make several templates for each type of slides: a slide with text, an image, a graph. Then just duplicate the slides and change only the text and images.&lt;/p&gt;
+&lt;p&gt;A presentation where the same type of elements occupy the same place on each slide looks neat.&lt;/p&gt;
+&lt;p&gt;The source: &lt;a href=&#34;https://tilda.education/articles-how-to-create-presentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tilda.education/articles-how-to-create-presentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup language Markdown.</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and reproduced in any system or browser.
+Markdown was created by writer and blogger John Gruber together with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which the text can be translated into a beautifully designed form. At the same time, the text must remain readable even without bringing it to a &amp;ldquo;beautiful&amp;rdquo; appearance. This turned out to be Markdown. It was created in 2004, but the language has gained the greatest popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS and even messengers. Therefore, the markdown is useful for everyone who deals with the web, from developers to bloggers.
+A person writes text in any editor and adds special combinations of standard characters to it. This is a markup, it shows where the text should be bold, where it should be a title, and where a list is needed. Using symbols, you can mark up headings, text selections, and even complex structures like tables. Special converters form a ready-made document based on the markup. This is similar to using HTML, but the markdown is simpler, the text in it is more readable. Converters are either initially available in a text editor, for example in a note-taking application, or are downloaded separately.&lt;/p&gt;
+&lt;h2 id=&#34;who-uses-the-markdown&#34;&gt;Who uses the markdown&lt;/h2&gt;
+&lt;p&gt;Internet users who communicate in messengers and write notes in services that support markup.
+Developers who use markdown to write documentation for projects — they need a simple and reliable tool.
+Content managers when filling sites that support markdown. Markup can also be used on web pages.
+Bloggers who write longreads when they design materials for articles. Many platforms for writing texts support markdown, for example, Notion.
+Writers and copywriters who need a simple tool for formatting text — markup that can be read from any device.
+Enthusiasts who use markup for personal purposes: write notes and to-do lists, keep diaries or make cards for memorization.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-markdown-for&#34;&gt;What is a markdown for?&lt;/h2&gt;
+&lt;p&gt;Quick formatting of the article for translation into PDF or so that it just looks beautiful without extra effort.
+Layout of a text document to be placed on the site, but without the use of HTML.
+Writing documentation for the code.
+Making notes in a personal digital notebook.
+Writing beautiful messages in messengers.&lt;/p&gt;
+&lt;h2 id=&#34;markup-rules&#34;&gt;Markup rules&lt;/h2&gt;
+&lt;p&gt;Basic syntax. It is very simple: the text is &amp;ldquo;wrapped&amp;rdquo; in characters or they are placed before the line. This is how, for example, the headlines will look like.&lt;/p&gt;
+&lt;p&gt;· # Header H1 (first level, for example the title of the text)&lt;/p&gt;
+&lt;p&gt;· ## Header H2 (second level, headers)&lt;/p&gt;
+&lt;p&gt;· ### H3 heading (third level, intermediate subheadings)&lt;/p&gt;
+&lt;p&gt;And so on, up to the sixth-level headers with six grids in front of the line. In practice, subheadings below H3 are practically not used.&lt;/p&gt;
+&lt;p&gt;In markdown, you can apply basic text formatting. You won&amp;rsquo;t be able to insert a letter letter or a handwritten font, but it&amp;rsquo;s easy to highlight important areas.&lt;/p&gt;
+&lt;p&gt;· &lt;em&gt;Italics&lt;/em&gt; or &lt;em&gt;cursive&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;· &lt;strong&gt;Bold text&lt;/strong&gt; or &lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;· &lt;em&gt;&lt;strong&gt;Bold and underlined text&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;· &amp;gt; Quote (an angle bracket is placed before each line of the quote)&lt;/p&gt;
+&lt;p&gt;· — Bulleted list item&lt;/p&gt;
+&lt;p&gt;· 1. The first item of the numbered list&lt;/p&gt;
+&lt;p&gt;· 2. The second item of the numbered list (and so on)&lt;/p&gt;
+&lt;p&gt;Inserting materials. Markup allows you to insert different elements into the text: links and images, which will then &amp;ldquo;pull up&amp;rdquo; into the document when formatting is applied.&lt;/p&gt;
+&lt;p&gt;· [link_text](any link) to insert links&lt;/p&gt;
+&lt;p&gt;· [caption to the picture] (link to the picture) to insert pictures into the text&lt;/p&gt;
+&lt;p&gt;· ***, — or ___ — a horizontal line for the entire line that separates part of the text from another&lt;/p&gt;
+&lt;p&gt;And if there should be an asterisk or any other &amp;ldquo;special&amp;rdquo; character in the text that can be read wrong, you need to put a backslash in front of it. For example, like this: *. Then the symbol will be displayed in the text as it should and is not considered as a markup rule.&lt;/p&gt;
+&lt;p&gt;Extended syntax. There is an extended version of the markdown. It&amp;rsquo;s called GFM, GitHub Flavored Markdown. It has other interesting features, for example, ~~strikethrough text ~~ wrapped in two tildes, or a `short piece of code&amp;rsquo;. A multiline code block is wrapped in three gravis above the top and below the bottom line. Like this:&lt;/p&gt;
+&lt;p&gt;«`&lt;/p&gt;
+&lt;p&gt;There will be a line of code here.&lt;/p&gt;
+&lt;p&gt;And here too.&lt;/p&gt;
+&lt;p&gt;«`&lt;/p&gt;
+&lt;p&gt;You can create tables based on vertical and horizontal line symbols. Or &amp;ldquo;to-do lists&amp;rdquo;:&lt;/p&gt;
+&lt;p&gt;— [X] Completed task&lt;/p&gt;
+&lt;p&gt;— [ ] Unfinished business&lt;/p&gt;
+&lt;p&gt;If the editor supports GFM, then all such syntax elements will also be converted and will look like on a web page. It even has an emoji: you just need to insert the code of the desired smiley wrapped in colons into the text. Something like this: 😄. Emoji codes are publicly available, they can be viewed on the Internet.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-start-working-with-a-markdown&#34;&gt;How to start working with a markdown&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s very simple: you need to install or open any editor that supports this markup and start writing. There are local editors, they need to be downloaded, and there are those that work in the browser via the Internet, as a web service. Choose any one, customize it to your needs and get started. The syntax is simple and easy to learn. It may even be that you are already partially using it: for example, in the Telegram messenger, it is the markdown that is used to format the text.&lt;/p&gt;
+&lt;p&gt;If you want to use markdown not for personal notes, but for formatting text in a blog or on a website, you need to connect a plugin with Markdown support to them. This is also not difficult, such plugins exist for many CMS.&lt;/p&gt;
+&lt;p&gt;Markdown is also useful for those who are planning a career as a developer. It is needed in content, in web programming, in writing documentation.
+The source: &lt;a href=&#34;https://blog.skillfactory.ru/glossary/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.skillfactory.ru/glossary/markdown/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control System. Git.</title>
+      <link>https://example.com/post/jupyter/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you have broken something or lost files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.
+Many people use copying files to a separate directory as a version control method (perhaps even a directory with a time stamp, if they are smart enough). This approach is very common because of its simplicity, but it is incredibly prone to errors. You can easily forget which directory you are in and accidentally change the wrong file or copy the wrong files that you wanted.
+In order to solve this problem, programmers have long ago developed local VCS with a simple database that stores records of all changes in files, thereby monitoring revisions.
+One of the most popular VCS was the RCS system, which is still distributed with many computers today. RCS stores on disk sets of patches (differences between files) in a special format, using which it can recreate the state of each file at a given time.
+The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized Version Control Systems (hereinafter CVCS) were developed. Systems such as CVS, Subversion, and Perforce use a single server containing all versions of files, and a number of clients that receive files from this centralized repository. The use of CVCS has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local VCS. For example, all project developers know to a certain extent what each of them is doing. Administrators have full control over who can do what, and it is much easier to administer CVCS than to operate local databases on each client.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious disadvantages. The most obvious disadvantage is a single point of failure represented by a centralized server. If this server goes down for an hour, then during this time no one will be able to use version control to save the changes they are working on, and no one will be able to share these changes with other developers. If the hard disk on which the central database is stored is damaged, and there are no timely backups, you will lose everything — the entire history of the project, not counting single repository snapshots that have been saved on local developer machines. Local VCS suffer from the same problem: when the entire project history is stored in one place, you risk losing everything.
+This is where Distributed Version Control Systems (hereinafter DVCS) come into play. In DVCS (such as Git, Mercurial, Bazaar, or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of files at a certain point in time) — they completely copy the repository. In this case, if one of the servers through which the developers exchanged data dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

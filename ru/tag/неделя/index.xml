@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Неделя | Academic</title>
+    <link>https://example.com/ru/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <atom:link href="https://example.com/ru/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Неделя</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Неделя</title>
+      <link>https://example.com/ru/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+    </image>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/ru/post/lw/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/lw/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал две лабораторных работы по компьютерной алгебре.&lt;/li&gt;
+&lt;li&gt;Я поиграл в футбол на улице с друзьями.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математическому анализу.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по аналитической геометрии и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/ru/post/weeeek/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weeeek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работу номер 14 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сходил на две тренировки по баскетболу.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математической логику и аналитической геометрии.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по математическому анализу и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/ru/post/prev-week/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/prev-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работу номер 12 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сыграл в баскетбольном матче за сборную РУДН против сборной МГТУ СТАНКИН.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математическому анализу.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по аналитической геометрии и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/ru/post/last-week/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last-week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работу номер 9 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сыграл в баскетбольном матче за сборную РУДН.&lt;/li&gt;
+&lt;li&gt;Я написал контрольную работу по математической логике.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по математическому анализу и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошедшую неделю.</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Я сделал лабораторную работы номер 5 по операционным системам.&lt;/li&gt;
+&lt;li&gt;Я сыграл в баскетбольном матче за сборную Университета.&lt;/li&gt;
+&lt;li&gt;Я посетил научную выставку.&lt;/li&gt;
+&lt;li&gt;Я решил множество задач по математическому анализу и другим предметам.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

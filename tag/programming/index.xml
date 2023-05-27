@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Проект на Linux</title>
+      <title>Linux project</title>
       <link>https://example.com/project/external-project/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Проект С&#43;&#43;</title>
+      <title>С&#43;&#43; project</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
