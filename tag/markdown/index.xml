@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | A.A.Shupletsov</title>
-    <link>https://example.com/tag/markdown/</link>
-      <atom:link href="https://example.com/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/tag/markdown/</link>
+      <atom:link href="https://winnralex.github.io/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Markdown</title>
-      <link>https://example.com/tag/markdown/</link>
+      <link>https://winnralex.github.io/tag/markdown/</link>
     </image>
     
     <item>
       <title>Markup language Markdown.</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <link>https://winnralex.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <guid>https://winnralex.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and reproduced in any system or browser.
 Markdown was created by writer and blogger John Gruber together with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which the text can be translated into a beautifully designed form. At the same time, the text must remain readable even without bringing it to a &amp;ldquo;beautiful&amp;rdquo; appearance. This turned out to be Markdown. It was created in 2004, but the language has gained the greatest popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS and even messengers. Therefore, the markdown is useful for everyone who deals with the web, from developers to bloggers.

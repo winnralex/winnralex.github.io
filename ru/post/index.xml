@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | A.A.Шуплецов</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/ru/post/</link>
+      <atom:link href="https://winnralex.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https://winnralex.github.io/ru/post/</link>
     </image>
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/lw/</link>
+      <link>https://winnralex.github.io/ru/post/lw/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/lw/</guid>
+      <guid>https://winnralex.github.io/ru/post/lw/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Устойчивое развитие.</title>
-      <link>https://example.com/ru/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
+      <link>https://winnralex.github.io/ru/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
+      <guid>https://winnralex.github.io/ru/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
       <description>&lt;p&gt;Самое лучшее определение устойчивого развития было представлено в отчете «Наше общее будущее» (также известном, как отчет Брандтлэнда):&lt;/p&gt;
 &lt;p&gt;«Устойчивое развитие – это развитие, которое отвечает потребностям настоящего без подрыва способности будущих поколений удовлетворять свои потребности».&lt;/p&gt;
 &lt;p&gt;Таким образом, устойчивое развитие – это способность удовлетворять потребности настоящего, в то же время, способствуя потребностям будущих поколений.&lt;/p&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/weeeek/</link>
+      <link>https://winnralex.github.io/ru/post/weeeek/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weeeek/</guid>
+      <guid>https://winnralex.github.io/ru/post/weeeek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Языки научного программирования.</title>
-      <link>https://example.com/ru/post/science/</link>
+      <link>https://winnralex.github.io/ru/post/science/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/science/</guid>
+      <guid>https://winnralex.github.io/ru/post/science/</guid>
       <description>&lt;p&gt;Программирование часто упоминают в прикладном контексте. Кажется, с его помощью создают только мобильные приложения, интернет-системы и спецэффекты для кино. Но первоначально программирование предназначалось для решения научных задач. Кроме того, программирование само — наука, узнать о которой будет полезно тем, кто решил связать карьеру с компьютерной разработкой.
 Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
 &lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/prev-week/</link>
+      <link>https://winnralex.github.io/ru/post/prev-week/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/prev-week/</guid>
+      <guid>https://winnralex.github.io/ru/post/prev-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Создание презентаций.</title>
-      <link>https://example.com/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <link>https://winnralex.github.io/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+      <guid>https://winnralex.github.io/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
       <description>&lt;p&gt;Хорошая презентация помогает понять спикера, а плохая лишь нагоняет скуку. Вы знаете это, если защищали диплом в вузе или слушали выступление коллег на совещании. К сожалению, плохих презентаций больше.&lt;/p&gt;
 &lt;p&gt;Отличить хорошую презентацию очень просто: она помогает удержать внимание слушателей. В плохой презентации все в кучу: глаза разбегаются по ярким слайдам, мозг пытается обработать текст, а в это время спикер что-то бормочет о своем.&lt;/p&gt;
 &lt;p&gt;Чтобы сделать хорошую презентацию, не нужно уметь рисовать, владеть фотошопом и тратить часы на сборку слайдов. Хорошая презентация — это внятное изложение и хорошая подача прежде всего. Это одинаково работает в публичных выступлениях и презентациях на сайтах.&lt;/p&gt;
@@ -161,9 +161,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://winnralex.github.io/ru/post/last-week/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://winnralex.github.io/ru/post/last-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -177,9 +177,9 @@
     
     <item>
       <title>Язык разметки Markdown.</title>
-      <link>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <link>https://winnralex.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <guid>https://winnralex.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown, или маркдаун, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.
 Маркдаун создал писатель и блогер Джон Грубер вместе с веб-активистом Аароном Шварцем. Они хотели придумать максимально простой и удобный язык разметки, с помощью которого текст можно перевести в красиво оформленный вид. При этом текст обязан оставаться читаемым даже без приведения к «красивому» виду. Таким и оказался Markdown. Его создали в 2004 году, но наибольшую популярность язык получил сейчас. Его поддерживают разнообразные платформы для блогов, сервисы создания заметок, CMS и даже мессенджеры. Поэтому маркдаун полезно знать всем, кто имеет дело с вебом, от разработчиков до блогеров.
@@ -237,9 +237,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://winnralex.github.io/ru/post/getting-started/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://winnralex.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -253,9 +253,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/jupyter/</link>
+      <link>https://winnralex.github.io/ru/post/jupyter/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/jupyter/</guid>
+      <guid>https://winnralex.github.io/ru/post/jupyter/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.

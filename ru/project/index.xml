@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | A.A.Шуплецов</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/ru/project/</link>
+      <atom:link href="https://winnralex.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://winnralex.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Проект на Linux</title>
-      <link>https://example.com/ru/project/external-project/</link>
+      <link>https://winnralex.github.io/ru/project/external-project/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/external-project/</guid>
+      <guid>https://winnralex.github.io/ru/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Проект С&#43;&#43;</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://winnralex.github.io/ru/project/example/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://winnralex.github.io/ru/project/example/</guid>
       <description></description>
     </item>
     

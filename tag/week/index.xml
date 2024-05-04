@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Week | A.A.Shupletsov</title>
-    <link>https://example.com/tag/week/</link>
-      <atom:link href="https://example.com/tag/week/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/tag/week/</link>
+      <atom:link href="https://winnralex.github.io/tag/week/index.xml" rel="self" type="application/rss+xml" />
     <description>Week</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Week</title>
-      <link>https://example.com/tag/week/</link>
+      <link>https://winnralex.github.io/tag/week/</link>
     </image>
     
     <item>
       <title>How I spent the past week.</title>
-      <link>https://example.com/post/lw/</link>
+      <link>https://winnralex.github.io/post/lw/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lw/</guid>
+      <guid>https://winnralex.github.io/post/lw/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
 &lt;ol&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>How I spent the past week.</title>
-      <link>https://example.com/post/weeeek/</link>
+      <link>https://winnralex.github.io/post/weeeek/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weeeek/</guid>
+      <guid>https://winnralex.github.io/post/weeeek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
 &lt;ol&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>How I spent the past week.</title>
-      <link>https://example.com/post/prev-week/</link>
+      <link>https://winnralex.github.io/post/prev-week/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/prev-week/</guid>
+      <guid>https://winnralex.github.io/post/prev-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
 &lt;ol&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>How I spent the past week.</title>
-      <link>https://example.com/post/last-week/</link>
+      <link>https://winnralex.github.io/post/last-week/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
+      <guid>https://winnralex.github.io/post/last-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
 &lt;ol&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>How I spent the past week .</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://winnralex.github.io/post/getting-started/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://winnralex.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Last week I had many interesting things:&lt;/p&gt;
 &lt;ol&gt;

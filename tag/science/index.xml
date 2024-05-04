@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science | A.A.Shupletsov</title>
-    <link>https://example.com/tag/science/</link>
-      <atom:link href="https://example.com/tag/science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/tag/science/</link>
+      <atom:link href="https://winnralex.github.io/tag/science/index.xml" rel="self" type="application/rss+xml" />
     <description>Science</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Science</title>
-      <link>https://example.com/tag/science/</link>
+      <link>https://winnralex.github.io/tag/science/</link>
     </image>
     
     <item>
       <title>Science programming languages.</title>
-      <link>https://example.com/post/science/</link>
+      <link>https://winnralex.github.io/post/science/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/science/</guid>
+      <guid>https://winnralex.github.io/post/science/</guid>
       <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.
 Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
 &lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;

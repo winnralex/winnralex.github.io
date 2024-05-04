@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education | A.A.Shupletsov</title>
-    <link>https://example.com/category/education/</link>
-      <atom:link href="https://example.com/category/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/category/education/</link>
+      <atom:link href="https://winnralex.github.io/category/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Education</title>
-      <link>https://example.com/category/education/</link>
+      <link>https://winnralex.github.io/category/education/</link>
     </image>
     
     <item>
       <title>Sustainable Development.</title>
-      <link>https://example.com/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
+      <link>https://winnralex.github.io/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
+      <guid>https://winnralex.github.io/post/%D1%83%D1%81%D1%82%D0%BE%D0%B8%D1%87%D0%B8%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
       <description>&lt;p&gt;Sustainable Development&lt;/p&gt;
 &lt;p&gt;The best definition of Sustainable development was presented by the report Our Common Future (also known as the Brundtland Report):&lt;/p&gt;
 &lt;p&gt;“Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”&lt;/p&gt;
@@ -41,9 +41,9 @@ Including and combining environment and economics considerations in decision-mak
     
     <item>
       <title>Science programming languages.</title>
-      <link>https://example.com/post/science/</link>
+      <link>https://winnralex.github.io/post/science/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/science/</guid>
+      <guid>https://winnralex.github.io/post/science/</guid>
       <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.
 Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
 &lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
@@ -63,9 +63,9 @@ Scientific programming is a highly oriented programming style for scientific cal
     
     <item>
       <title>Presentation creating.</title>
-      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <link>https://winnralex.github.io/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+      <guid>https://winnralex.github.io/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
       <description>&lt;p&gt;A good presentation helps to understand the speaker, but a bad one only bores you. You know this if you defended your diploma at a university or listened to colleagues speak at a meeting. Unfortunately, there are more bad presentations.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s very easy to distinguish a good presentation: it helps to keep the listeners&amp;rsquo; attention. In a bad presentation, everything is in a heap: the eyes scatter over bright slides, the brain tries to process the text, and at this time the speaker mumbles something about his own.&lt;/p&gt;
 &lt;p&gt;To make a good presentation, you do not need to be able to draw, own Photoshop and spend hours assembling slides. A good presentation is a clear presentation and a good presentation first of all. This works equally in public speeches and presentations on websites.&lt;/p&gt;
@@ -113,9 +113,9 @@ One font is enough to create a presentation. Take a modern sans-serif font: Open
     
     <item>
       <title>Markup language Markdown.</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <link>https://winnralex.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <guid>https://winnralex.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and reproduced in any system or browser.
 Markdown was created by writer and blogger John Gruber together with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which the text can be translated into a beautifully designed form. At the same time, the text must remain readable even without bringing it to a &amp;ldquo;beautiful&amp;rdquo; appearance. This turned out to be Markdown. It was created in 2004, but the language has gained the greatest popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS and even messengers. Therefore, the markdown is useful for everyone who deals with the web, from developers to bloggers.
@@ -171,9 +171,9 @@ The source: &lt;a href=&#34;https://blog.skillfactory.ru/glossary/markdown/&#34;
     
     <item>
       <title>Version Control System. Git.</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://winnralex.github.io/post/jupyter/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://winnralex.github.io/post/jupyter/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
 &lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you have broken something or lost files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git | A.A.Шуплецов</title>
-    <link>https://example.com/ru/tag/git/</link>
-      <atom:link href="https://example.com/ru/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/ru/tag/git/</link>
+      <atom:link href="https://winnralex.github.io/ru/tag/git/index.xml" rel="self" type="application/rss+xml" />
     <description>Git</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Git</title>
-      <link>https://example.com/ru/tag/git/</link>
+      <link>https://winnralex.github.io/ru/tag/git/</link>
     </image>
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/jupyter/</link>
+      <link>https://winnralex.github.io/ru/post/jupyter/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/jupyter/</guid>
+      <guid>https://winnralex.github.io/ru/post/jupyter/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.

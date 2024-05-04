@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Стиль жизни | A.A.Шуплецов</title>
-    <link>https://example.com/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
-      <atom:link href="https://example.com/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
+      <atom:link href="https://winnralex.github.io/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Стиль жизни</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Стиль жизни</title>
-      <link>https://example.com/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
+      <link>https://winnralex.github.io/ru/category/%D1%81%D1%82%D0%B8%D0%BB%D1%8C-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
     </image>
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/lw/</link>
+      <link>https://winnralex.github.io/ru/post/lw/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/lw/</guid>
+      <guid>https://winnralex.github.io/ru/post/lw/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/weeeek/</link>
+      <link>https://winnralex.github.io/ru/post/weeeek/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weeeek/</guid>
+      <guid>https://winnralex.github.io/ru/post/weeeek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/prev-week/</link>
+      <link>https://winnralex.github.io/ru/post/prev-week/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/prev-week/</guid>
+      <guid>https://winnralex.github.io/ru/post/prev-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://winnralex.github.io/ru/post/last-week/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://winnralex.github.io/ru/post/last-week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Как я провел прошедшую неделю.</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://winnralex.github.io/ru/post/getting-started/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://winnralex.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;На прошедшей неделе в моей жизни произошло несколько интересных событий:&lt;/p&gt;
 &lt;ol&gt;

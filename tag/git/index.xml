@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git | A.A.Shupletsov</title>
-    <link>https://example.com/tag/git/</link>
-      <atom:link href="https://example.com/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://winnralex.github.io/tag/git/</link>
+      <atom:link href="https://winnralex.github.io/tag/git/index.xml" rel="self" type="application/rss+xml" />
     <description>Git</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Git</title>
-      <link>https://example.com/tag/git/</link>
+      <link>https://winnralex.github.io/tag/git/</link>
     </image>
     
     <item>
       <title>Version Control System. Git.</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://winnralex.github.io/post/jupyter/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://winnralex.github.io/post/jupyter/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
 &lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you have broken something or lost files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.
