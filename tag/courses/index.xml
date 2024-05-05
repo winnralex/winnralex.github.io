@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>courses | A.A.Shupletsov</title>
+    <link>https://winnralex.github.io/tag/courses/</link>
+      <atom:link href="https://winnralex.github.io/tag/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>courses</title>
+      <link>https://winnralex.github.io/tag/courses/</link>
+    </image>
+    
+    <item>
+      <title>Course &#34;The basics of cybersecurity&#34; completed</title>
+      <link>https://winnralex.github.io/project/newp/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://winnralex.github.io/project/newp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

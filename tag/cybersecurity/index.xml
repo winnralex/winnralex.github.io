@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cybersecurity | A.A.Shupletsov</title>
+    <link>https://winnralex.github.io/tag/cybersecurity/</link>
+      <atom:link href="https://winnralex.github.io/tag/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>cybersecurity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://winnralex.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cybersecurity</title>
+      <link>https://winnralex.github.io/tag/cybersecurity/</link>
+    </image>
+    
+    <item>
+      <title>Course &#34;The basics of cybersecurity&#34; completed</title>
+      <link>https://winnralex.github.io/project/newp/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://winnralex.github.io/project/newp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The report of the project&#39;s part 1 completion (in russian).</title>
+      <link>https://winnralex.github.io/post/pr1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://winnralex.github.io/post/pr1/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы безопасности в сети.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-работы&#34;&gt;Выполнение работы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Единственным протоколом прикладного уровня из списка является протокол HTTPS.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;первое задание&#34; srcset=&#34;
+               /post/pr1/image/1_hu9e9a5c0f117603e1675986bf701bee66_60911_645fc235b1e9b934a64b145876d17349.webp 400w,
+               /post/pr1/image/1_hu9e9a5c0f117603e1675986bf701bee66_60911_10bffa12451b3a51c956fb9e9be0ccd5.webp 760w,
+               /post/pr1/image/1_hu9e9a5c0f117603e1675986bf701bee66_60911_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/1_hu9e9a5c0f117603e1675986bf701bee66_60911_645fc235b1e9b934a64b145876d17349.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Протокол TCP работает на транспортном уровне.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;второе задание&#34; srcset=&#34;
+               /post/pr1/image/2_hue3457de42f6334a133e49160aeacb127_66995_6d5b115ae33b9692da76422c9d893e57.webp 400w,
+               /post/pr1/image/2_hue3457de42f6334a133e49160aeacb127_66995_1c6c7f21e5cb4676f288c88b26b4db88.webp 760w,
+               /post/pr1/image/2_hue3457de42f6334a133e49160aeacb127_66995_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/2_hue3457de42f6334a133e49160aeacb127_66995_6d5b115ae33b9692da76422c9d893e57.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;В 8 битах 256 разных значений, но нумерация идет с нуля и как итог, допустимые значения в IP адресе - с 0 до 255.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;третье задание&#34; srcset=&#34;
+               /post/pr1/image/3_hubf43c0e863851b1e49dca69765abf04c_88753_585d9014921067450e9f97df18d74bfc.webp 400w,
+               /post/pr1/image/3_hubf43c0e863851b1e49dca69765abf04c_88753_aab0e3481a19bb47a8f0d231e6aa32e2.webp 760w,
+               /post/pr1/image/3_hubf43c0e863851b1e49dca69765abf04c_88753_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/3_hubf43c0e863851b1e49dca69765abf04c_88753_585d9014921067450e9f97df18d74bfc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Основная задача DNS-сервера - это сопоставить название, то есть доменное имя, с корректным IP-адресом, с тем, где лежит этот сервер, этот сайт.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четвертое задание&#34; srcset=&#34;
+               /post/pr1/image/4_hu4b01894cbca9c4b45d69ba552b99232b_77393_76f2783ec91c9cc110ab86c8598cc4a0.webp 400w,
+               /post/pr1/image/4_hu4b01894cbca9c4b45d69ba552b99232b_77393_dffa5f2acdeea0366e92d160cae9d78e.webp 760w,
+               /post/pr1/image/4_hu4b01894cbca9c4b45d69ba552b99232b_77393_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/4_hu4b01894cbca9c4b45d69ba552b99232b_77393_76f2783ec91c9cc110ab86c8598cc4a0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Корректная последовательность протоколов в модели TCP/IP: прикладной-транспортный-сетевой-канальный.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятое задание&#34; srcset=&#34;
+               /post/pr1/image/5_hu1304906768479937363ffaae0b2b3c6d_82449_7c5a653d0b32eed730f97d2ebfd51c04.webp 400w,
+               /post/pr1/image/5_hu1304906768479937363ffaae0b2b3c6d_82449_180146f179cb0df6c483037660d69964.webp 760w,
+               /post/pr1/image/5_hu1304906768479937363ffaae0b2b3c6d_82449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/5_hu1304906768479937363ffaae0b2b3c6d_82449_7c5a653d0b32eed730f97d2ebfd51c04.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Протокол http, в отличие от протокола https, предполагает передачу данных между клиентом и сервером в открытом виде.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;шестое задание&#34; srcset=&#34;
+               /post/pr1/image/6_hub661887fcbb795000d8bcf6124ec849a_73904_e3aaeb65ef515f55cfef1c2bb6fddf3d.webp 400w,
+               /post/pr1/image/6_hub661887fcbb795000d8bcf6124ec849a_73904_43267b1c0d139167e621788ef9b0e6d4.webp 760w,
+               /post/pr1/image/6_hub661887fcbb795000d8bcf6124ec849a_73904_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/6_hub661887fcbb795000d8bcf6124ec849a_73904_e3aaeb65ef515f55cfef1c2bb6fddf3d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Протокол https состоит из двух фаз: рукопожатия (handshake) и передачи данных.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;седьмое задание&#34; srcset=&#34;
+               /post/pr1/image/7_hu1a35e66bc26de96d9628f9cf485e908a_84405_b59370d4074ba6061513ac96046c6314.webp 400w,
+               /post/pr1/image/7_hu1a35e66bc26de96d9628f9cf485e908a_84405_62b7dc51f8e49976701a40a67897665a.webp 760w,
+               /post/pr1/image/7_hu1a35e66bc26de96d9628f9cf485e908a_84405_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/7_hu1a35e66bc26de96d9628f9cf485e908a_84405_b59370d4074ba6061513ac96046c6314.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Версия протокола TLS определяется и клиентом, и сервером в процессе &amp;ldquo;переговоров&amp;rdquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;восьмое задание&#34; srcset=&#34;
+               /post/pr1/image/8_hu4f85dc8dbe7fcda3b5d31319eacacdf2_72414_b211d49c74ff14afc785f640a82de675.webp 400w,
+               /post/pr1/image/8_hu4f85dc8dbe7fcda3b5d31319eacacdf2_72414_2171e956df6fc74938e98aa87108d083.webp 760w,
+               /post/pr1/image/8_hu4f85dc8dbe7fcda3b5d31319eacacdf2_72414_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/8_hu4f85dc8dbe7fcda3b5d31319eacacdf2_72414_b211d49c74ff14afc785f640a82de675.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;В фазе рукопожатия не предусмотрено шифрование данных, так как эта фаза является вводной перед защищенной передачей данных.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;девятое задание&#34; srcset=&#34;
+               /post/pr1/image/9_hu95642d3d7b84494032289296866f8396_86504_4ea54b0dd0bfd031261c5714851313c4.webp 400w,
+               /post/pr1/image/9_hu95642d3d7b84494032289296866f8396_86504_44f4119ed2650a25a16f7ce14c1d9efa.webp 760w,
+               /post/pr1/image/9_hu95642d3d7b84494032289296866f8396_86504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/9_hu95642d3d7b84494032289296866f8396_86504_4ea54b0dd0bfd031261c5714851313c4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Куки хранят id сессии, идентификатор пользователя, пароль и IP адрес они не хранят.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;десятое задание&#34; srcset=&#34;
+               /post/pr1/image/10_hu7a39680cf09da9bf7d46e38d3682cb53_85095_4416fc74bdcfcf0f499cfb49a930328f.webp 400w,
+               /post/pr1/image/10_hu7a39680cf09da9bf7d46e38d3682cb53_85095_426d95f83b5aa7128928b619ee220666.webp 760w,
+               /post/pr1/image/10_hu7a39680cf09da9bf7d46e38d3682cb53_85095_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/10_hu7a39680cf09da9bf7d46e38d3682cb53_85095_4416fc74bdcfcf0f499cfb49a930328f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Куки не используются для улучшения надежности соединения, они с соединением пользователя никак не связаны.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;одиннадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/11_hu0135feef2c97c47e109826026a382e22_84062_d0a84a648415e2a8114d802a76e826a6.webp 400w,
+               /post/pr1/image/11_hu0135feef2c97c47e109826026a382e22_84062_f9464b435750c53d0c0c204a045ea3fc.webp 760w,
+               /post/pr1/image/11_hu0135feef2c97c47e109826026a382e22_84062_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/11_hu0135feef2c97c47e109826026a382e22_84062_d0a84a648415e2a8114d802a76e826a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Куки генерируются сервером для клиента.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двенадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/12_hu137ad11f53d06f1a3b3b5daf353e2cb5_61165_f0ef6a599d2b07ab5449ca098eda229a.webp 400w,
+               /post/pr1/image/12_hu137ad11f53d06f1a3b3b5daf353e2cb5_61165_3f13999cb6e95907905adc8c0f67a57b.webp 760w,
+               /post/pr1/image/12_hu137ad11f53d06f1a3b3b5daf353e2cb5_61165_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/12_hu137ad11f53d06f1a3b3b5daf353e2cb5_61165_f0ef6a599d2b07ab5449ca098eda229a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Сессионные куки хранятся в браузере до конца сессии, то есть на время пользования веб-сайтом.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тринадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/13_hucd3e1065e28c7081bea46759bb2eb53a_74187_df521fe8197830607f992861918f1fc6.webp 400w,
+               /post/pr1/image/13_hucd3e1065e28c7081bea46759bb2eb53a_74187_a4408f31c8de806084387fc7d4065eb6.webp 760w,
+               /post/pr1/image/13_hucd3e1065e28c7081bea46759bb2eb53a_74187_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/13_hucd3e1065e28c7081bea46759bb2eb53a_74187_df521fe8197830607f992861918f1fc6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;В луковой сети TOR 3 промежуточных узла: охранный, промежуточный и выходной.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четырнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/14_hud9eedee2e4f22a8a2e3a6dee3855f1ee_62038_af2aaa2f7a2b985a281b0d514854e05b.webp 400w,
+               /post/pr1/image/14_hud9eedee2e4f22a8a2e3a6dee3855f1ee_62038_ee1ee0a9a64d0e5ebfce65a1bdb188e4.webp 760w,
+               /post/pr1/image/14_hud9eedee2e4f22a8a2e3a6dee3855f1ee_62038_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/14_hud9eedee2e4f22a8a2e3a6dee3855f1ee_62038_af2aaa2f7a2b985a281b0d514854e05b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;В TOR IP-адрес получателя известен лишь отправителю и выходному узлу, это одна из причин почему TOR считается конфиденциальной сетью.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/15_huaaa543345502a8c8efe11fdd40cb8606_89822_05a79c220789d5159d9576c8ec9b646d.webp 400w,
+               /post/pr1/image/15_huaaa543345502a8c8efe11fdd40cb8606_89822_6cb44a0edd9d1c4266e55023925f67eb.webp 760w,
+               /post/pr1/image/15_huaaa543345502a8c8efe11fdd40cb8606_89822_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/15_huaaa543345502a8c8efe11fdd40cb8606_89822_05a79c220789d5159d9576c8ec9b646d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;Отправитель генерирует общий секретный ключ со всеми тремя узлами: с охранным, с промежуточным, с выходным. Этот процесс делает передачу данных крайне защищенной.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;шестнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/16_hu7d51d3f91af6dca154f1451829d364b0_81887_9d160552303ab0fda4081abbcf609367.webp 400w,
+               /post/pr1/image/16_hu7d51d3f91af6dca154f1451829d364b0_81887_c2b74e9cd316a85f2afb71b4d309f3bd.webp 760w,
+               /post/pr1/image/16_hu7d51d3f91af6dca154f1451829d364b0_81887_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/16_hu7d51d3f91af6dca154f1451829d364b0_81887_9d160552303ab0fda4081abbcf609367.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;17&#34;&gt;
+&lt;li&gt;Для получения пакетов через луковую маршрутизацию необязательно использовать браузер, основанный на луковой маршрутизации, это обязательно для отправителя пакетов.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;семнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/17_hu82f524e9d9ae36e695596e483703b650_68073_ae81ec78f38031615a5d5b1fe1d193fb.webp 400w,
+               /post/pr1/image/17_hu82f524e9d9ae36e695596e483703b650_68073_d33a06a0eea6e0f6274f97455a10bba7.webp 760w,
+               /post/pr1/image/17_hu82f524e9d9ae36e695596e483703b650_68073_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/17_hu82f524e9d9ae36e695596e483703b650_68073_ae81ec78f38031615a5d5b1fe1d193fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;18&#34;&gt;
+&lt;li&gt;Согласно определению, Wi-Fi - это технология беспроводной локальной сети, работающая в соответствии со стандартом IEEE 802.11.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;восемнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/18_hub575dbd46fbfa07b022b688420d14596_85359_a9011d48260754da10ce98f3730da45f.webp 400w,
+               /post/pr1/image/18_hub575dbd46fbfa07b022b688420d14596_85359_a45e3b7e30f9b965339b8349e7b8fb5c.webp 760w,
+               /post/pr1/image/18_hub575dbd46fbfa07b022b688420d14596_85359_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/18_hub575dbd46fbfa07b022b688420d14596_85359_a9011d48260754da10ce98f3730da45f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;19&#34;&gt;
+&lt;li&gt;Протокол Wifi работает на самом нижнем, канальном уровне.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;девятнадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/19_hu5b33ed47a7e723324f439926c9ea9a1a_67909_0388ec239ceb4ea0a996cb0b1de869f7.webp 400w,
+               /post/pr1/image/19_hu5b33ed47a7e723324f439926c9ea9a1a_67909_2a60063dd3d8e6ea9dd604252648da86.webp 760w,
+               /post/pr1/image/19_hu5b33ed47a7e723324f439926c9ea9a1a_67909_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/19_hu5b33ed47a7e723324f439926c9ea9a1a_67909_0388ec239ceb4ea0a996cb0b1de869f7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;20&#34;&gt;
+&lt;li&gt;Небезопасным методом обеспечения шифрования и аутентификации в сети Wifi является WEP, так как он устарел, в частности, потому, что использовал малую длину ключа: так, например, он использовал длину ключа в 40 бит, это довольно мало на сегодняшний день, он может быть легко взломан.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двадцатое задание&#34; srcset=&#34;
+               /post/pr1/image/20_hu59434a98ce23f54cf1d942f3f582ea4d_69203_a56f412bd67fb476ad6cd9c5e7ff2ea6.webp 400w,
+               /post/pr1/image/20_hu59434a98ce23f54cf1d942f3f582ea4d_69203_dd0f5dd8fc0ac3ef098b59027c5d3413.webp 760w,
+               /post/pr1/image/20_hu59434a98ce23f54cf1d942f3f582ea4d_69203_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/20_hu59434a98ce23f54cf1d942f3f582ea4d_69203_a56f412bd67fb476ad6cd9c5e7ff2ea6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;21&#34;&gt;
+&lt;li&gt;Данные между хостом сети (компьютером или смартфоном) и роутером передаются в зашифрованном виде после аутентификации устройств.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двадцать первое задание&#34; srcset=&#34;
+               /post/pr1/image/21_hu1ef06541c87e81374ace84ffee440211_90613_8d8a83a14e6470cc2015cc1ae57d1b03.webp 400w,
+               /post/pr1/image/21_hu1ef06541c87e81374ace84ffee440211_90613_b314167a79750200360548f460596a05.webp 760w,
+               /post/pr1/image/21_hu1ef06541c87e81374ace84ffee440211_90613_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/21_hu1ef06541c87e81374ace84ffee440211_90613_8d8a83a14e6470cc2015cc1ae57d1b03.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;22&#34;&gt;
+&lt;li&gt;Для домашней сети для аутентификации обычно используется метод WPA2 Personal, WPA2 Enterprise используется для корпоративных сетей.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двадцать второе задание&#34; srcset=&#34;
+               /post/pr1/image/22_hu0e7cb5784ae922e1e809654f0d1ff62d_68484_b68d609980c35206c3b66258aceca078.webp 400w,
+               /post/pr1/image/22_hu0e7cb5784ae922e1e809654f0d1ff62d_68484_09efb1c993ecb825da87810dca122505.webp 760w,
+               /post/pr1/image/22_hu0e7cb5784ae922e1e809654f0d1ff62d_68484_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr1/image/22_hu0e7cb5784ae922e1e809654f0d1ff62d_68484_b68d609980c35206c3b66258aceca078.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Я изучил основы безопасности в сети.&lt;/p&gt;
+&lt;h1 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h1&gt;
+&lt;p&gt;Конспекты к лекциям курса &amp;ldquo;Основы кибербезопасности&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The report of the project&#39;s part 2 completion (in russian).</title>
+      <link>https://winnralex.github.io/post/pr2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://winnralex.github.io/post/pr2/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы защиты данных ПК/телефона.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-работы&#34;&gt;Выполнение работы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Загрузочный сектор диска, как и другие сектора диска, можно зашифровать.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;первое задание&#34; srcset=&#34;
+               /post/pr2/image/1_hua5ef10f130fb41b5b7982999f342eecb_61754_b590538f1164a7f8983dc347742fb661.webp 400w,
+               /post/pr2/image/1_hua5ef10f130fb41b5b7982999f342eecb_61754_f7b61a4b4eb2810d47c3d70036ba366c.webp 760w,
+               /post/pr2/image/1_hua5ef10f130fb41b5b7982999f342eecb_61754_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/1_hua5ef10f130fb41b5b7982999f342eecb_61754_b590538f1164a7f8983dc347742fb661.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Шифрование диска основано на симметричном шифровании, как правило на алгоритме AES.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;второе задание&#34; srcset=&#34;
+               /post/pr2/image/2_huc3d97b6ea97e0ec59904147838c4843b_70461_d902fe21aea677366c40e8c60b05e201.webp 400w,
+               /post/pr2/image/2_huc3d97b6ea97e0ec59904147838c4843b_70461_63c18e668d907b80ae701f35ea6a7ea6.webp 760w,
+               /post/pr2/image/2_huc3d97b6ea97e0ec59904147838c4843b_70461_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/2_huc3d97b6ea97e0ec59904147838c4843b_70461_d902fe21aea677366c40e8c60b05e201.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;VeraCrypt и BitLocker - примеры программ, с помощью которых можно зашифровать жесткий диск.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;третье задание&#34; srcset=&#34;
+               /post/pr2/image/3_hu95ba741e8c62c51e320fae42c2b4b9ca_90078_45957d138a8de3fa503a18ab033212a4.webp 400w,
+               /post/pr2/image/3_hu95ba741e8c62c51e320fae42c2b4b9ca_90078_94df19e97895d84ec558c383c7318afe.webp 760w,
+               /post/pr2/image/3_hu95ba741e8c62c51e320fae42c2b4b9ca_90078_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/3_hu95ba741e8c62c51e320fae42c2b4b9ca_90078_45957d138a8de3fa503a18ab033212a4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;К стойким паролям обычно относят пароли, содержащие большие и маленькие буквы алфавита, цифры, специальные символы, не имеющие реальной смысловой нагрузки, выберем такой пароль из списка.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четвертое задание&#34; srcset=&#34;
+               /post/pr2/image/4_hufd6881cbf20f5038057b5c88ff36addf_72177_4de511bd56d27ddc64f0b599fe3b83ee.webp 400w,
+               /post/pr2/image/4_hufd6881cbf20f5038057b5c88ff36addf_72177_ef281fd2ab46beee9581b2d494700297.webp 760w,
+               /post/pr2/image/4_hufd6881cbf20f5038057b5c88ff36addf_72177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/4_hufd6881cbf20f5038057b5c88ff36addf_72177_4de511bd56d27ddc64f0b599fe3b83ee.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Менеджеры паролей являются самым безопасным методом хранения паролей.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятое задание&#34; srcset=&#34;
+               /post/pr2/image/5_hua0e4cd96f2b047d26e10e57ed0e11da6_78341_bf6a56d9afb63a1f9780b2d9ed5b1536.webp 400w,
+               /post/pr2/image/5_hua0e4cd96f2b047d26e10e57ed0e11da6_78341_da0893e9cee33b0fde4f4d95419a865b.webp 760w,
+               /post/pr2/image/5_hua0e4cd96f2b047d26e10e57ed0e11da6_78341_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/5_hua0e4cd96f2b047d26e10e57ed0e11da6_78341_bf6a56d9afb63a1f9780b2d9ed5b1536.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Капча нужна для защиты от автоматизированных атак, направленных на получение несанкционированного доступа, она не используется для замены паролей, защиты кук пользователя, безопасного хранения паролей на сервере.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;шестое задание&#34; srcset=&#34;
+               /post/pr2/image/6_hu9a5e6636e26adbde5c4e8d76722bbdac_79597_e5f61bc76dafb0411419f46243c8877b.webp 400w,
+               /post/pr2/image/6_hu9a5e6636e26adbde5c4e8d76722bbdac_79597_fb1232b802e08997e2ab519ec62c31e4.webp 760w,
+               /post/pr2/image/6_hu9a5e6636e26adbde5c4e8d76722bbdac_79597_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/6_hu9a5e6636e26adbde5c4e8d76722bbdac_79597_e5f61bc76dafb0411419f46243c8877b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Хэширование паролей нужно для того, чтобы не хранить пароли на сервере в открытом виде, для конфиденциальности паролей пользователей.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;седьмое задание&#34; srcset=&#34;
+               /post/pr2/image/7_hu39a6ea5ca9f8549938eb2b538e00cbb9_87306_7aacd0d4339cdd2b1105b2a6cd199831.webp 400w,
+               /post/pr2/image/7_hu39a6ea5ca9f8549938eb2b538e00cbb9_87306_71c0ffe6348fb4da0659e6cc79aa6371.webp 760w,
+               /post/pr2/image/7_hu39a6ea5ca9f8549938eb2b538e00cbb9_87306_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/7_hu39a6ea5ca9f8549938eb2b538e00cbb9_87306_7aacd0d4339cdd2b1105b2a6cd199831.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Соль для улучшения стойкости паролей не поможет, если злоумышленник получил доступ к серверу, так как она хранится на сервере.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;восьмое задание&#34; srcset=&#34;
+               /post/pr2/image/8_hua15b98a110fafe1e813dc0c4d4d6cd00_66502_94e1b7544a28807a45acdfe5d901eb85.webp 400w,
+               /post/pr2/image/8_hua15b98a110fafe1e813dc0c4d4d6cd00_66502_893282832097919cb296b92e12f14b8c.webp 760w,
+               /post/pr2/image/8_hua15b98a110fafe1e813dc0c4d4d6cd00_66502_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/8_hua15b98a110fafe1e813dc0c4d4d6cd00_66502_94e1b7544a28807a45acdfe5d901eb85.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Разные пароли на всех сайтах, периодическая смена паролей, сложные пароли, капча защищают от утечек данных атакой перебором.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;девятое задание&#34; srcset=&#34;
+               /post/pr2/image/9_huefa14cecd25de8f319728ab95b8d4f1d_94810_e1c3b6fbd43f84e1bdf751bf5f6f581b.webp 400w,
+               /post/pr2/image/9_huefa14cecd25de8f319728ab95b8d4f1d_94810_25989546d76bbd9faed96080e8bba30a.webp 760w,
+               /post/pr2/image/9_huefa14cecd25de8f319728ab95b8d4f1d_94810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/9_huefa14cecd25de8f319728ab95b8d4f1d_94810_e1c3b6fbd43f84e1bdf751bf5f6f581b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Среди представленных ссылок, ссылка для входа в сбербанк и для входа в яндекс являются фишинговыми, так как не имеют никакого отношения к сбербанку и яндексу соответственно.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;десятое задание&#34; srcset=&#34;
+               /post/pr2/image/10_hu16ad8703b427ec8ef7a5d2e54b59e92d_122799_075a110fb8db5c0349b6a12be917d548.webp 400w,
+               /post/pr2/image/10_hu16ad8703b427ec8ef7a5d2e54b59e92d_122799_c426e09622e25d497355b15a64fa3d2c.webp 760w,
+               /post/pr2/image/10_hu16ad8703b427ec8ef7a5d2e54b59e92d_122799_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/10_hu16ad8703b427ec8ef7a5d2e54b59e92d_122799_075a110fb8db5c0349b6a12be917d548.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Фишинговый имейл может прийти от знакомого адреса, этот вид фишинга называется спуфинг.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;одиннадцатое задание&#34; srcset=&#34;
+               /post/pr2/image/11_hu134bef97158eb71f2ae239bb7a34fa80_60625_9e2fa893352d530135fed9bad92a4daf.webp 400w,
+               /post/pr2/image/11_hu134bef97158eb71f2ae239bb7a34fa80_60625_edd9a78b8cb7808e9d2f7aa89ca6ae4a.webp 760w,
+               /post/pr2/image/11_hu134bef97158eb71f2ae239bb7a34fa80_60625_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/11_hu134bef97158eb71f2ae239bb7a34fa80_60625_9e2fa893352d530135fed9bad92a4daf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Спуфинг - это подмена адреса отправителя в имейлах, вид фишинга.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двенадцатое задание&#34; srcset=&#34;
+               /post/pr2/image/12_hu0ca9ae13c861951b953579e3106a8fd0_75178_05b6d9eb22ca563fe0d44e6bdd287717.webp 400w,
+               /post/pr2/image/12_hu0ca9ae13c861951b953579e3106a8fd0_75178_33a648fb63ecc20e823850e930a29188.webp 760w,
+               /post/pr2/image/12_hu0ca9ae13c861951b953579e3106a8fd0_75178_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/12_hu0ca9ae13c861951b953579e3106a8fd0_75178_05b6d9eb22ca563fe0d44e6bdd287717.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Вирус-троян маскируется под легитимную программу, при этом содержа в себе вредоносное ПО.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тринадцатое задание&#34; srcset=&#34;
+               /post/pr2/image/13_huc7ab1ec06b3a488deac14af8a89232d6_80965_b15635761c54363b28b04921dac2f6e3.webp 400w,
+               /post/pr2/image/13_huc7ab1ec06b3a488deac14af8a89232d6_80965_288f49f408fe1abd30e4aaa9c3f5313b.webp 760w,
+               /post/pr2/image/13_huc7ab1ec06b3a488deac14af8a89232d6_80965_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/13_huc7ab1ec06b3a488deac14af8a89232d6_80965_b15635761c54363b28b04921dac2f6e3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;В протоколе мессенджеров Signal ключ шифрования формируется при генерации первого сообщения стороной-отправителем.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четырнадцатое задание&#34; srcset=&#34;
+               /post/pr2/image/14_hu178b481b315fef22b3e7601d9b449925_85299_7110f7afaabf05adc6e43f1fbeee3057.webp 400w,
+               /post/pr2/image/14_hu178b481b315fef22b3e7601d9b449925_85299_82a1d1946836c49ef44fc1fc13e88e26.webp 760w,
+               /post/pr2/image/14_hu178b481b315fef22b3e7601d9b449925_85299_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/14_hu178b481b315fef22b3e7601d9b449925_85299_7110f7afaabf05adc6e43f1fbeee3057.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;Суть сквозного шифрования состоит в том, что сообщения передаются по узлам связи (серверам) в зашифрованном виде.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятнадцатое задание&#34; srcset=&#34;
+               /post/pr2/image/15_hub13973175ebec5fd7c7847bad3a3ee44_94735_91d0068e7f85de47d73818798f9cd97d.webp 400w,
+               /post/pr2/image/15_hub13973175ebec5fd7c7847bad3a3ee44_94735_bab2b78139f687e17d1e7e0abfdfd4d0.webp 760w,
+               /post/pr2/image/15_hub13973175ebec5fd7c7847bad3a3ee44_94735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr2/image/15_hub13973175ebec5fd7c7847bad3a3ee44_94735_91d0068e7f85de47d73818798f9cd97d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Я изучил основы защиты данных ПК/телефона.&lt;/p&gt;
+&lt;h1 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h1&gt;
+&lt;p&gt;Конспекты к лекциям курса &amp;ldquo;Основы кибербезопасности&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The report of the project&#39;s part 3 completion (in russian).</title>
+      <link>https://winnralex.github.io/post/pr3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://winnralex.github.io/post/pr3/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Изучить основы криптографии.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-работы&#34;&gt;Выполнение работы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;В асимметричных криптографических примитивах обе стороны имеют пару ключей - публичный и секретный.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;первое задание&#34; srcset=&#34;
+               /post/pr3/image/1_hu146742c8a7c12599d7e3415330d811f0_88694_17a85e11c7a0ae77433571c0a30397ec.webp 400w,
+               /post/pr3/image/1_hu146742c8a7c12599d7e3415330d811f0_88694_f166757c658e74bbb610a8aa2a92f81b.webp 760w,
+               /post/pr3/image/1_hu146742c8a7c12599d7e3415330d811f0_88694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/1_hu146742c8a7c12599d7e3415330d811f0_88694_17a85e11c7a0ae77433571c0a30397ec.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Криптографическая хэш-функция, в отличие от обычной хэш-функции, не обеспечивает конфиденциальность захэшированных данных, но она стойкая к коллизиям, эффективно вычисляется, дает на выходе фиксированное число бит независимо от объема входных данных.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;второе задание&#34; srcset=&#34;
+               /post/pr3/image/2_hue8045550dec7f7cf7ab3e98a50e4d5dd_102232_2e9794fabffa26134595a83d9b964842.webp 400w,
+               /post/pr3/image/2_hue8045550dec7f7cf7ab3e98a50e4d5dd_102232_ff308c23fd6a930995390567ded5c6c6.webp 760w,
+               /post/pr3/image/2_hue8045550dec7f7cf7ab3e98a50e4d5dd_102232_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/2_hue8045550dec7f7cf7ab3e98a50e4d5dd_102232_2e9794fabffa26134595a83d9b964842.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;К алгоритмам цифровой подписи относятся зарубежные RSA и ECDSA, российский ГОСТ Р 34.10-2012.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;третье задание&#34; srcset=&#34;
+               /post/pr3/image/3_hu917118351e6aff69f99ce2bf89f48986_87876_07ba18fbf698dda175a398bfd5a79aba.webp 400w,
+               /post/pr3/image/3_hu917118351e6aff69f99ce2bf89f48986_87876_cb0979f585cf5b49d17c2e8d9df339e6.webp 760w,
+               /post/pr3/image/3_hu917118351e6aff69f99ce2bf89f48986_87876_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/3_hu917118351e6aff69f99ce2bf89f48986_87876_07ba18fbf698dda175a398bfd5a79aba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Код аутентификации сообщения относится к симметричным примитивам.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четвертое задание&#34; srcset=&#34;
+               /post/pr3/image/4_hu16197e4911d3bf598a613253740967e3_63847_8a48a1566bfc56520bf203a2e7c62c64.webp 400w,
+               /post/pr3/image/4_hu16197e4911d3bf598a613253740967e3_63847_9a878a59bff21968a41726e89c860be8.webp 760w,
+               /post/pr3/image/4_hu16197e4911d3bf598a613253740967e3_63847_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/4_hu16197e4911d3bf598a613253740967e3_63847_8a48a1566bfc56520bf203a2e7c62c64.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Обмен ключами Диффи-Хэллмана - это асимметричный примитив генерации общего секретного ключа.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятое задание&#34; srcset=&#34;
+               /post/pr3/image/5_hu232e07d4777f7af5125965147617f71f_85936_9e37fce9afd65d04583377b8957175ac.webp 400w,
+               /post/pr3/image/5_hu232e07d4777f7af5125965147617f71f_85936_08cc0f35b1d2e649cf8ff8fe6c15de7b.webp 760w,
+               /post/pr3/image/5_hu232e07d4777f7af5125965147617f71f_85936_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/5_hu232e07d4777f7af5125965147617f71f_85936_9e37fce9afd65d04583377b8957175ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Протокол электронной цифровой подписи относится к протоколам с публичным ключом.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;шестое задание&#34; srcset=&#34;
+               /post/pr3/image/6_hu5a716bb8c522de01752c1a7a5da93074_69409_959e2ce170c2835f5a57211153e90be8.webp 400w,
+               /post/pr3/image/6_hu5a716bb8c522de01752c1a7a5da93074_69409_1da75c309d5679c2896fbb5a71225fc7.webp 760w,
+               /post/pr3/image/6_hu5a716bb8c522de01752c1a7a5da93074_69409_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/6_hu5a716bb8c522de01752c1a7a5da93074_69409_959e2ce170c2835f5a57211153e90be8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Алгоритм верификации электронной цифровой подписи требует на вход подпись, открытый ключ, сообщение.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;седьмое задание&#34; srcset=&#34;
+               /post/pr3/image/7_hu8164de4404d819dc2b8054540afc1e24_77497_d9d9254462607094eead8f4ce4ce18f1.webp 400w,
+               /post/pr3/image/7_hu8164de4404d819dc2b8054540afc1e24_77497_f71497d8d273a72af436bc2dc35e0b92.webp 760w,
+               /post/pr3/image/7_hu8164de4404d819dc2b8054540afc1e24_77497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/7_hu8164de4404d819dc2b8054540afc1e24_77497_d9d9254462607094eead8f4ce4ce18f1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Электронная цифровая подпись не обеспечивает конфиденциальность.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;восьмое задание&#34; srcset=&#34;
+               /post/pr3/image/8_hue7a4710f79d44452942421b502656190_72240_8e8dab338aab9b7cfb185a1d33501456.webp 400w,
+               /post/pr3/image/8_hue7a4710f79d44452942421b502656190_72240_0d73feffd38568f1d587be1d346e3d7d.webp 760w,
+               /post/pr3/image/8_hue7a4710f79d44452942421b502656190_72240_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/8_hue7a4710f79d44452942421b502656190_72240_8e8dab338aab9b7cfb185a1d33501456.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Для отправки налоговой отчетности в ФНС понадобится самый сильный тип сертификата электронной подписи - усиленная квалификационная.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;девятое задание&#34; srcset=&#34;
+               /post/pr3/image/9_hu3d151ed2d07a2de6131181deee7e89bb_73968_80576c516598343ccc10d67a4f81649f.webp 400w,
+               /post/pr3/image/9_hu3d151ed2d07a2de6131181deee7e89bb_73968_07c96d11d4756f978e01cecff848bdcd.webp 760w,
+               /post/pr3/image/9_hu3d151ed2d07a2de6131181deee7e89bb_73968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/9_hu3d151ed2d07a2de6131181deee7e89bb_73968_80576c516598343ccc10d67a4f81649f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Квалифицированный сертификат ключа проверки электронной подписи можно получить в удостоверяющем (сертификационном) центре.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;десятое задание&#34; srcset=&#34;
+               /post/pr3/image/10_hua7c78d94b1d347d9ded1010b97edb7bd_90099_ac78e9777c7e1ffe8be910c83877e1e4.webp 400w,
+               /post/pr3/image/10_hua7c78d94b1d347d9ded1010b97edb7bd_90099_be211dad586248038cca199e02aab9df.webp 760w,
+               /post/pr3/image/10_hua7c78d94b1d347d9ded1010b97edb7bd_90099_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/10_hua7c78d94b1d347d9ded1010b97edb7bd_90099_ac78e9777c7e1ffe8be910c83877e1e4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;MasterCard и МИР являются платежными системами в предоставленном в задании списке.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;одиннадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/11_hu4efbafd96bda4379ac6e98cab760901e_90868_ea0d47e0b59aa6816cdfea89d9027613.webp 400w,
+               /post/pr3/image/11_hu4efbafd96bda4379ac6e98cab760901e_90868_33a7f3db18aed9ed996e424542b0e206.webp 760w,
+               /post/pr3/image/11_hu4efbafd96bda4379ac6e98cab760901e_90868_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/11_hu4efbafd96bda4379ac6e98cab760901e_90868_ea0d47e0b59aa6816cdfea89d9027613.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Примерами многофакторной аутентификации являются комбинация проверка пароля + код в sms сообщении, комбинация код в sms сообщении + отпечаток пальца, капча с паролем и пароль с пин кодом не являются примерами многофакторной аутентификации.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;двенадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/12_hue8b467977af58b9730eb8aeb7c739946_104095_073aeb8a3ab246833401571b5a1b16d0.webp 400w,
+               /post/pr3/image/12_hue8b467977af58b9730eb8aeb7c739946_104095_65ff3da24332d515446cdf6c1dfc0db8.webp 760w,
+               /post/pr3/image/12_hue8b467977af58b9730eb8aeb7c739946_104095_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/12_hue8b467977af58b9730eb8aeb7c739946_104095_073aeb8a3ab246833401571b5a1b16d0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;При онлайн платежах сегодня используется многофакторная аутентификация покупателя перед банком-эмитентом - банком, на счете которого покупатель хранит денежные средства.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тринадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/13_hu3e536fcc51e97a1844445f405066f007_93410_82646b30afad65666c91507933564778.webp 400w,
+               /post/pr3/image/13_hu3e536fcc51e97a1844445f405066f007_93410_6e4f82329cb4ee37bf4d820f9b07b414.webp 760w,
+               /post/pr3/image/13_hu3e536fcc51e97a1844445f405066f007_93410_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/13_hu3e536fcc51e97a1844445f405066f007_93410_82646b30afad65666c91507933564778.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Сложность нахождения прообраза как свойство криптографической хэш-функции используется в доказательстве работы майнера.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;четырнадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/14_hu8c64822814b05ef04bcce85fea295f75_83947_8ea0306c2b5e3e983fc788fd15711887.webp 400w,
+               /post/pr3/image/14_hu8c64822814b05ef04bcce85fea295f75_83947_9565e8cae7fcaa10604a01222e8ec459.webp 760w,
+               /post/pr3/image/14_hu8c64822814b05ef04bcce85fea295f75_83947_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/14_hu8c64822814b05ef04bcce85fea295f75_83947_8ea0306c2b5e3e983fc788fd15711887.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;Консенсус в некоторых системах блокчейн обладает свойствами: открытость, живучесть, постоянство.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;пятнадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/15_huf1d460c287548bb4848b43803e916bcf_91933_3bf3c3fefcea4ac036e7a13e4492a608.webp 400w,
+               /post/pr3/image/15_huf1d460c287548bb4848b43803e916bcf_91933_131b17f39c6b0ba12c9c5ea9fcc55daa.webp 760w,
+               /post/pr3/image/15_huf1d460c287548bb4848b43803e916bcf_91933_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/15_huf1d460c287548bb4848b43803e916bcf_91933_3bf3c3fefcea4ac036e7a13e4492a608.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;Цифровая подпись используется в качестве криптографического примитива в блокчейне.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;шестнадцатое задание&#34; srcset=&#34;
+               /post/pr3/image/16_hu6ccb99c88aad4ba7aafce4825031fd95_74786_ad0e649ad4feab78d44b8156a4cc5705.webp 400w,
+               /post/pr3/image/16_hu6ccb99c88aad4ba7aafce4825031fd95_74786_31299cd07427e8676fc88862432f1300.webp 760w,
+               /post/pr3/image/16_hu6ccb99c88aad4ba7aafce4825031fd95_74786_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://winnralex.github.io/post/pr3/image/16_hu6ccb99c88aad4ba7aafce4825031fd95_74786_ad0e649ad4feab78d44b8156a4cc5705.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Я изучил основы криптографии.&lt;/p&gt;
+&lt;h1 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h1&gt;
+&lt;p&gt;Конспекты к лекциям курса &amp;ldquo;Основы кибербезопасности&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
